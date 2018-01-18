@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoodyGMathQuiz", "MoodyGMathQuiz\MoodyGMathQuiz.csproj", "{97030EBC-62DA-4B98-9A4A-E2021DB22613}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97030EBC-62DA-4B98-9A4A-E2021DB22613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97030EBC-62DA-4B98-9A4A-E2021DB22613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97030EBC-62DA-4B98-9A4A-E2021DB22613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97030EBC-62DA-4B98-9A4A-E2021DB22613}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69F80019-F9B1-4B32-8EEF-709F61E5B901}
+	EndGlobalSection
+EndGlobal
