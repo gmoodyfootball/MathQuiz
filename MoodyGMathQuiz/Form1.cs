@@ -17,7 +17,7 @@ namespace MoodyGMathQuiz
         Random randomizer = new Random();
 
         // Variables for the addition problem
-
+        // this is a change
         public Form1()
         {
             InitializeComponent();
